@@ -1,6 +1,6 @@
 {
-    "name": "prahsys/laravel-api-logs",
-    "description": "Laravel API request logging with idempotency support",
+    "name": "webensol/laravel-api-logs",
+    "description": "Laravel API request logging with idempotency support (forked from prahsys/laravel-api-logs)",
     "type": "library",
     "license": "MIT",
     "autoload": {
